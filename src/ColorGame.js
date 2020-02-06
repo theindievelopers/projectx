@@ -1,4 +1,4 @@
-mlimport React from 'react';
+import React from 'react';
 import BetBox from './BetBox';
 
 const BET_COLORS = ['RED','BLUE','GREEN','PINK','ORANGE','YELLOW'];
